@@ -17,9 +17,12 @@ What are the main objectives of this project?
 
 1.W3Schools Exercises.
 
-⦁ Perform the following w3schools sql exercises.
+⦁ Perform the following w3schools sql exercises. [W3Schools SQL Exercises](https://www.w3schools.com/sql/sql_exercises.asp)
+
 
 ⦁ Take the w3schools quiz.
+[W3Schools SQL Quiz](https://www.w3schools.com/sql/sql_quiz.asp)
+
 
 
 
