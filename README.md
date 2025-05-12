@@ -8,12 +8,17 @@ MySQL is a relational database management system considered to be the most popul
 
 
 What are the main objectives of this project?
+
 ⦁ Consolidate queries to a database.
+
 ⦁ To understand how relationships between tables are realized.
+
 ⦁ Consolidate how to interact with data stored in the database.
 
 1.W3Schools Exercises.
+
 ⦁ Perform the following w3schools sql exercises.
+
 ⦁ Take the w3schools quiz.
 
 
@@ -21,6 +26,7 @@ What are the main objectives of this project?
 
  
 2.1.Create diagram
+
 ⦁ Create a diagram using DBeaver of an e-commerce (online store) database with the following tables:
 User table
 Product table
@@ -30,7 +36,9 @@ Category table
 It should show the types of relationships between each table. *Remember that in the case of a many-to-many relationship you will need an intermediate table.
 
 2.2. Execute the following SQL queries
+
 2.2.1 INSERT DATA
+
 
 ⦁ Insert at least 5 new users.
 ⦁ Insert at least 5 new products.
@@ -59,13 +67,17 @@ It should show the types of relationships between each table. *Remember that in 
 
 
 3. Extra
+   
 3.1.1 DELETE DATA
+
 ⦁ Deletes a product by its id.
 
 3.2 Update diagram
+
 ⦁ Create a new reviews table and add it to the diagram, also specifying the relationship type.
 
 3.3. Execute the following SQL queries
+
 3.3.1 INSERT DATA
 
 Insert at least 5 new reviews.
